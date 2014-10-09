@@ -1,5 +1,5 @@
 <template>
-  <name>CentOS-6.3-x86_64-cfntools</name>
+  <name>CentOS-6.5-x86_64-cfntools</name>
   <os>
     <name>CentOS-6</name>
     <version>3</version>
